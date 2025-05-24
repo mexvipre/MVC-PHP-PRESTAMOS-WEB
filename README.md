@@ -19,10 +19,10 @@ Este repositorio contiene la **primera fase** del sistema de gestión de présta
 app/
 ├── controllers/
 ├── models/
-├── views/
-├── config/
-└── test/
-
+├── views/      
+config/
+   └── conexion.php
+index.php   
 
 ---
 
